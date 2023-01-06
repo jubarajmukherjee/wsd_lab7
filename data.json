@@ -1,0 +1,52 @@
+{
+  "parts": [
+    {
+      "id": 1,
+      "name": "CPU",
+      "brand": "Intel",
+      "model": "Core i7-10700K",
+      "price": 350,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Motherboard",
+      "brand": "ASUS",
+      "model": "ROG Strix Z490-E",
+      "price": 250,
+      "inStock": false
+    },
+    {
+      "id": 3,
+      "name": "RAM",
+      "brand": "Corsair",
+      "model": "Vengeance LPX 16GB DDR4-3200",
+      "price": 75,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "Graphics Card",
+      "brand": "Nvidia",
+      "model": "GeForce RTX 3070",
+      "price": 700,
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "name": "SSD",
+      "brand": "Samsung",
+      "model": "970 EVO Plus 500GB",
+      "price": 120,
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "name": "Case",
+      "brand": "NZXT",
+      "model": "H510 Elite",
+      "price": 150,
+      "inStock": false
+    }
+  ]
+}
